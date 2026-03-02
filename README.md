@@ -1,5 +1,7 @@
 # Kuzman_et_al_2026
-In this study, we introduced the bacterial RuMP cycle as the sole methanol assimilation pathway in K. phaffii. pFBA shows the differences in ATP requirements and fluxes in both strains. This repository contains the Python implementation for our paper.
+In this study, we introduced the bacterial RuMP cycle as the sole methanol assimilation pathway in K. phaffii. pFBA shows the differences in ATP requirements and fluxes in both strains. This repository contains the Python implementation for our paper. Our Zenodo DOI for the code used for our analysis is: 
+https://doi.org/10.5281/zenodo.18837996
+
 
 ## 🛠 Software Requirements
 
