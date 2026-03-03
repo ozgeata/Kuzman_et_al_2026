@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Kuzman"
+    given-names: "Firstname"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Ata"
+    given-names: "Özge"
+title: "Kuzman_et_al_2026_Metabolic_Analysis"
+version: 1.0.0
+doi: 10.5281/zenodo.1234567  # Add your Zenodo DOI here
+date-released: 2026-03-03
+url: "https://github.com/ozgeata/Kuzman_et_al_2026"
